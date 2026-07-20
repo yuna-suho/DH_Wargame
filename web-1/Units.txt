@@ -1,0 +1,5 @@
+- Cross-Site Scripting (XSS)
+- Command Injection - Web Servers
+- File Vulnerability - Web Servers
+- Command Injection Advanced - Web Servers
+- File Vulnerability Advanced - Web Servers
