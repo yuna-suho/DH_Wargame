@@ -1,5 +1,0 @@
-- Cross-Site Scripting (XSS)
-- SQL Injection
-- Command Injection - Web Servers
-- SQL Injection Advanced - Fingerprinting
-- NoSQL Injection Advanced
